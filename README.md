@@ -38,4 +38,4 @@ This project is funded and maintained by [Mintbit], a Rails consultancy in Knoxv
 If you'd like to [work with us][mintbit], don't hesitate to reach out.
 
 [mintbit]: https://www.mintbit.com?utm_source=github
-[mintbit-logo]: https://github.com/mintbit/kanban/blob/main/public/mintbit.svg
+[mintbit-logo]: https://www.mintbit.com/uploads/logo-github.svg
